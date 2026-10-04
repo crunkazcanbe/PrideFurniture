@@ -1,0 +1,40 @@
+{
+ "multipart": [
+  {
+   "when": {
+    "facing": "north"
+   },
+   "apply": {
+    "model": "pridefurniture:coffee_table",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east"
+   },
+   "apply": {
+    "model": "pridefurniture:coffee_table",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south"
+   },
+   "apply": {
+    "model": "pridefurniture:coffee_table",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west"
+   },
+   "apply": {
+    "model": "pridefurniture:coffee_table",
+    "y": 270
+   }
+  }
+ ]
+}

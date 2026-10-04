@@ -1,0 +1,40 @@
+{
+ "multipart": [
+  {
+   "when": {
+    "facing": "north"
+   },
+   "apply": {
+    "model": "pridefurniture:vanity_navy",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east"
+   },
+   "apply": {
+    "model": "pridefurniture:vanity_navy",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south"
+   },
+   "apply": {
+    "model": "pridefurniture:vanity_navy",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west"
+   },
+   "apply": {
+    "model": "pridefurniture:vanity_navy",
+    "y": 270
+   }
+  }
+ ]
+}

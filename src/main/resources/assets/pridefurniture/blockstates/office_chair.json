@@ -1,0 +1,40 @@
+{
+ "multipart": [
+  {
+   "when": {
+    "facing": "north"
+   },
+   "apply": {
+    "model": "pridefurniture:office_chair",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east"
+   },
+   "apply": {
+    "model": "pridefurniture:office_chair",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south"
+   },
+   "apply": {
+    "model": "pridefurniture:office_chair",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west"
+   },
+   "apply": {
+    "model": "pridefurniture:office_chair",
+    "y": 270
+   }
+  }
+ ]
+}

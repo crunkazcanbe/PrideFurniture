@@ -1,0 +1,280 @@
+{
+ "multipart": [
+  {
+   "when": {
+    "facing": "north"
+   },
+   "apply": {
+    "model": "pridefurniture:wine_fridge",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east"
+   },
+   "apply": {
+    "model": "pridefurniture:wine_fridge",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south"
+   },
+   "apply": {
+    "model": "pridefurniture:wine_fridge",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west"
+   },
+   "apply": {
+    "model": "pridefurniture:wine_fridge",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete",
+    "y": 270
+   }
+  }
+ ]
+}

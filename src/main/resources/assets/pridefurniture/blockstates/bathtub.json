@@ -1,0 +1,80 @@
+{
+ "multipart": [
+  {
+   "when": {
+    "facing": "north"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "on": "true"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub_water",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "on": "true"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub_water",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "on": "true"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub_water",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "on": "true"
+   },
+   "apply": {
+    "model": "pridefurniture:bathtub_water",
+    "y": 270
+   }
+  }
+ ]
+}

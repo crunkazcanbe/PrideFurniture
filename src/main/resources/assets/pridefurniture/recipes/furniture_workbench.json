@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "TCT",
+  "IXI"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plankWood"
+  },
+  "T": {
+   "item": "minecraft:stick"
+  },
+  "C": {
+   "item": "minecraft:crafting_table"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "X": {
+   "item": "minecraft:iron_axe"
+  }
+ },
+ "result": {
+  "item": "pridefurniture:furniture_workbench"
+ }
+}

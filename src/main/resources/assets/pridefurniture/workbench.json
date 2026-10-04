@@ -1,0 +1,2034 @@
+[
+ {
+  "id": "cabinet_white",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 7
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "drawers_white",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "sink_cabinet_white",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wall_cabinet_white",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "glass_cabinet_white",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "pantry_white",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "vanity_white",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 2
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "cabinet_oak",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 7
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "drawers_oak",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "sink_cabinet_oak",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wall_cabinet_oak",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "glass_cabinet_oak",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "pantry_oak",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "vanity_oak",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 2
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "cabinet_walnut",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 7
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "drawers_walnut",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "sink_cabinet_walnut",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wall_cabinet_walnut",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "glass_cabinet_walnut",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "pantry_walnut",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "vanity_walnut",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 2
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "cabinet_sage",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 7
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "drawers_sage",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "sink_cabinet_sage",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wall_cabinet_sage",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "glass_cabinet_sage",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "pantry_sage",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "vanity_sage",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 2
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 2,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "cabinet_navy",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 7
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "drawers_navy",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "sink_cabinet_navy",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wall_cabinet_navy",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "glass_cabinet_navy",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "pantry_navy",
+  "count": 1,
+  "category": "Cabinets",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 2
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "vanity_navy",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 2
+   },
+   {
+    "item": "minecraft:cauldron",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fridge_basic",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 7
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fridge_bottom_freezer",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 7
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fridge_side_by_side",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 6
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 2
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fridge_smart",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 6
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fridge_retro",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 6
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 6,
+    "count": 1
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fridge_commercial",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 3
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "mini_fridge",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 2
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wine_fridge",
+  "count": 1,
+  "category": "Fridges",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 6
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:snow",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "dishwasher",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 7
+   },
+   {
+    "item": "minecraft:bucket",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "trash_compactor",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 7
+   },
+   {
+    "item": "minecraft:piston",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "stove",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 7
+   },
+   {
+    "item": "minecraft:furnace",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "range_hood",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 5
+   },
+   {
+    "item": "minecraft:glowstone_dust",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "microwave",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:furnace",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "toaster",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 4
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   },
+   {
+    "item": "minecraft:furnace",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "coffee_maker",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 4
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   },
+   {
+    "item": "minecraft:glass_bottle",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "blender",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 5
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "kettle",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_bottle",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "knife_block",
+  "count": 1,
+  "category": "Kitchen Decor",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_sword",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fruit_bowl",
+  "count": 1,
+  "category": "Kitchen Decor",
+  "ingredients": [
+   {
+    "item": "minecraft:bowl",
+    "count": 1
+   },
+   {
+    "item": "minecraft:apple",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "paper_towel",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:paper",
+    "count": 2
+   },
+   {
+    "item": "minecraft:stick",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "spice_rack",
+  "count": 1,
+  "category": "Kitchen Decor",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 1
+   },
+   {
+    "item": "minecraft:glass_bottle",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "trash_can",
+  "count": 1,
+  "category": "Appliances",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 7
+   }
+  ]
+ },
+ {
+  "id": "bar_stool",
+  "count": 1,
+  "category": "Kitchen Decor",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "toilet",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 5
+   },
+   {
+    "item": "minecraft:bucket",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "bathtub",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 5
+   },
+   {
+    "item": "minecraft:bucket",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "shower",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 6
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+   },
+   {
+    "item": "minecraft:bucket",
+    "count": 1
+   },
+   {
+    "item": "minecraft:quartz_block",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "mirror",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:gold_nugget",
+    "count": 8
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "medicine_cabinet",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 4
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "towel_rack",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+   },
+   {
+    "item": "minecraft:wool",
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": "toilet_paper",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:paper",
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "bath_mat",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:carpet",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "hamper",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:stick",
+    "count": 7
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "washing_machine",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 5
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 2
+   },
+   {
+    "item": "minecraft:bucket",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "dryer",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 5
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "count": 2
+   },
+   {
+    "item": "minecraft:furnace",
+    "count": 1
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "bath_scale",
+  "count": 1,
+  "category": "Bathroom",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 2
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": "spiral_stairs_oak",
+  "count": 2,
+  "category": "Stairs",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 5
+   },
+   {
+    "item": "minecraft:stick",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "spiral_stairs_walnut",
+  "count": 2,
+  "category": "Stairs",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 4
+   },
+   {
+    "item": "minecraft:stick",
+    "count": 1
+   },
+   {
+    "item": "minecraft:dye",
+    "data": 3,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "spiral_stairs_iron",
+  "count": 2,
+  "category": "Stairs",
+  "ingredients": [
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 5
+   },
+   {
+    "item": "minecraft:stick",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "spiral_stairs_white",
+  "count": 2,
+  "category": "Stairs",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 5
+   },
+   {
+    "item": "minecraft:gold_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "sofa_pink",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 9,
+    "count": 4
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "armchair_pink",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 9,
+    "count": 5
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "sofa_gray",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 7,
+    "count": 4
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "armchair_gray",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 7,
+    "count": 5
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "sofa_navy",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 11,
+    "count": 4
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "armchair_navy",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 11,
+    "count": 5
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "sofa_sage",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 13,
+    "count": 4
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "armchair_sage",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 13,
+    "count": 5
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "coffee_table",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 3
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "side_table",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 7
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "tv_stand",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 5
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "tv",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 5
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "bookshelf",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 6
+   },
+   {
+    "item": "minecraft:book",
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": "floor_lamp",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:glowstone",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": "table_lamp",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "count": 2
+   },
+   {
+    "item": "minecraft:glowstone_dust",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "rug_pride",
+  "count": 2,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:carpet",
+    "data": 14,
+    "count": 1
+   },
+   {
+    "item": "minecraft:carpet",
+    "data": 1,
+    "count": 1
+   },
+   {
+    "item": "minecraft:carpet",
+    "data": 4,
+    "count": 1
+   },
+   {
+    "item": "minecraft:carpet",
+    "data": 13,
+    "count": 1
+   },
+   {
+    "item": "minecraft:carpet",
+    "data": 11,
+    "count": 1
+   },
+   {
+    "item": "minecraft:carpet",
+    "data": 10,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "fireplace",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:brick_block",
+    "count": 7
+   },
+   {
+    "item": "minecraft:netherrack",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "plant_monstera",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:flower_pot",
+    "count": 1
+   },
+   {
+    "item": "minecraft:leaves",
+    "count": 1
+   },
+   {
+    "item": "minecraft:vine",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "wall_clock",
+  "count": 1,
+  "category": "Living Room",
+  "ingredients": [
+   {
+    "item": "minecraft:gold_ingot",
+    "count": 4
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "desk_globe",
+  "count": 1,
+  "category": "Office & Hobby",
+  "ingredients": [
+   {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 3
+   },
+   {
+    "item": "minecraft:compass",
+    "count": 1
+   },
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "computer_desk",
+  "count": 1,
+  "category": "Office & Hobby",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+   },
+   {
+    "item": "minecraft:chest",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "computer",
+  "count": 1,
+  "category": "Office & Hobby",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 5
+   },
+   {
+    "item": "minecraft:redstone",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 2
+   },
+   {
+    "item": "minecraft:diamond",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "office_chair",
+  "count": 1,
+  "category": "Office & Hobby",
+  "ingredients": [
+   {
+    "item": "minecraft:wool",
+    "data": 15,
+    "count": 5
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": "fish_tank",
+  "count": 1,
+  "category": "Office & Hobby",
+  "ingredients": [
+   {
+    "item": "minecraft:glass_pane",
+    "count": 5
+   },
+   {
+    "item": "minecraft:fish",
+    "count": 1
+   },
+   {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": "countertop_granite",
+  "count": 3,
+  "category": "Countertops",
+  "ingredients": [
+   {
+    "item": "minecraft:stone",
+    "data": 1,
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "countertop_marble",
+  "count": 3,
+  "category": "Countertops",
+  "ingredients": [
+   {
+    "item": "minecraft:stone",
+    "data": 3,
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "countertop_butcher",
+  "count": 3,
+  "category": "Countertops",
+  "ingredients": [
+   {
+    "type": "forge:ore_dict",
+    "ore": "plankWood",
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "countertop_quartz",
+  "count": 3,
+  "category": "Countertops",
+  "ingredients": [
+   {
+    "item": "minecraft:quartz_block",
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "countertop_black",
+  "count": 3,
+  "category": "Countertops",
+  "ingredients": [
+   {
+    "item": "minecraft:obsidian",
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": "countertop_concrete",
+  "count": 3,
+  "category": "Countertops",
+  "ingredients": [
+   {
+    "item": "minecraft:concrete",
+    "data": 8,
+    "count": 3
+   },
+   {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+   }
+  ]
+ }
+]

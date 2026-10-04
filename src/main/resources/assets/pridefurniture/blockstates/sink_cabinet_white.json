@@ -1,0 +1,280 @@
+{
+ "multipart": [
+  {
+   "when": {
+    "facing": "north"
+   },
+   "apply": {
+    "model": "pridefurniture:sink_cabinet_white",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east"
+   },
+   "apply": {
+    "model": "pridefurniture:sink_cabinet_white",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south"
+   },
+   "apply": {
+    "model": "pridefurniture:sink_cabinet_white",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west"
+   },
+   "apply": {
+    "model": "pridefurniture:sink_cabinet_white",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite_sink",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite_sink",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite_sink",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "granite"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_granite_sink",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble_sink",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble_sink",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble_sink",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "marble"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_marble_sink",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher_sink",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher_sink",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher_sink",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "butcher"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_butcher_sink",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz_sink",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz_sink",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz_sink",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "quartz"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_quartz_sink",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black_sink",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black_sink",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black_sink",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "black"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_black_sink",
+    "y": 270
+   }
+  },
+  {
+   "when": {
+    "facing": "north",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete_sink",
+    "y": 0
+   }
+  },
+  {
+   "when": {
+    "facing": "east",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete_sink",
+    "y": 90
+   }
+  },
+  {
+   "when": {
+    "facing": "south",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete_sink",
+    "y": 180
+   }
+  },
+  {
+   "when": {
+    "facing": "west",
+    "counter": "concrete"
+   },
+   "apply": {
+    "model": "pridefurniture:counter_concrete_sink",
+    "y": 270
+   }
+  }
+ ]
+}
