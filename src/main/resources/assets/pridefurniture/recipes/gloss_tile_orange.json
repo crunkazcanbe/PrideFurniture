@@ -1,0 +1,27 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "group": "pridefurniture:gloss_tile",
+ "pattern": [
+  "QGQ",
+  "GDG",
+  "QGQ"
+ ],
+ "key": {
+  "Q": {
+   "item": "minecraft:quartz_block",
+   "data": 0
+  },
+  "G": {
+   "item": "minecraft:glass_pane"
+  },
+  "D": {
+   "type": "forge:ore_dict",
+   "ore": "dyeOrange"
+  }
+ },
+ "result": {
+  "item": "pridefurniture:gloss_tile",
+  "data": 1,
+  "count": 8
+ }
+}

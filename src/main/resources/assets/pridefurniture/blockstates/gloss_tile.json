@@ -1,0 +1,90 @@
+{
+ "forge_marker": 1,
+ "defaults": {
+  "model": "cube_all"
+ },
+ "variants": {
+  "color": {
+   "white": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_white"
+    }
+   },
+   "orange": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_orange"
+    }
+   },
+   "magenta": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_magenta"
+    }
+   },
+   "light_blue": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_light_blue"
+    }
+   },
+   "yellow": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_yellow"
+    }
+   },
+   "lime": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_lime"
+    }
+   },
+   "pink": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_pink"
+    }
+   },
+   "gray": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_gray"
+    }
+   },
+   "silver": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_silver"
+    }
+   },
+   "cyan": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_cyan"
+    }
+   },
+   "purple": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_purple"
+    }
+   },
+   "blue": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_blue"
+    }
+   },
+   "brown": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_brown"
+    }
+   },
+   "green": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_green"
+    }
+   },
+   "red": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_red"
+    }
+   },
+   "black": {
+    "textures": {
+     "all": "pridefurniture:blocks/gloss_tile_black"
+    }
+   }
+  }
+ }
+}

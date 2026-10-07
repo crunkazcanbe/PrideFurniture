@@ -21,6 +21,13 @@ Every piece is modelled in **Blockbench**, all original art. Made for the Pride 
 - **Living room & office** — sofas and armchairs you can sit on, glass coffee table, TV and gaming PC with GIF
   screens, bookshelf (powers enchanting), lamps that light up, fireplace, rug, plants, wall clock, **desk globe**
   (spin it!), computer desk, office chair, **fish tank**.
+- **Gloss Tiles (new, experimental)** — glossy floor tiles in all 16 dye colours that show a mirror image of you and
+  of mobs, dropped items and arrows standing on them, **no shaders needed** (stencil mask + mirrored entity pass +
+  glaze). Craft 8 from 4 plain quartz blocks, 4 glass panes and a dye. Options in the mod config: `glossReflections`
+  (on/off), `glossStrength` (0 = plain tile, 1 = perfect mirror), `glossRange` (how far away tiles still reflect; they
+  fade out over the last third) and `glossPlayerOnly` (performance mode: only you are reflected). `/pfgloss <0-3>`
+  (op) shows debug views of the reflection mask. The reflection is still new and has not been checked in every
+  setup yet; please report anything that looks wrong.
 - **Spiral staircases** (oak, walnut, wrought iron, white & gold) — walkable steps; stack them and each block turns
   to continue the spiral.
 - **Furniture Workbench** — every piece is made here, in a catalog with tabs, search, a 3D preview and
@@ -31,4 +38,8 @@ See **[Releases](../../releases)**. Drop the jar into a 1.12.2 Forge or Cleanroo
 
 ## How it's made
 Each model is described as a list of boxes (`tools/specs.py`), built and painted in Blockbench by a small helper,
-and exported straight into the mod. Code is MIT — see `LICENSE`. Made with help from Claude (Anthropic's AI).
+and exported straight into the mod. Code is MIT — see `LICENSE`.
+
+## Credits
+
+Made with [Claude Code](https://claude.com/claude-code) and [Blockbench](https://www.blockbench.net).

@@ -33,6 +33,9 @@ public final class ClientSetup {
             ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(b), 0, new ModelResourceLocation(b.getRegistryName(), "inventory"));
         for (Item i : PrideFurniture.ITEMS.values())
             ModelLoader.setCustomModelResourceLocation(i, 0, new ModelResourceLocation(i.getRegistryName(), "inventory"));
+        for (net.minecraft.item.EnumDyeColor c : net.minecraft.item.EnumDyeColor.values())
+            ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(PrideFurniture.GLOSS_TILE), c.getMetadata(),
+                    new ModelResourceLocation(PrideFurniture.GLOSS_TILE.getRegistryName(), "color=" + c.getName()));
         ModelLoader.setCustomStateMapper(PrideFurniture.FILLER, new StateMapperBase() {
             @Override protected ModelResourceLocation getModelResourceLocation(IBlockState s) {
                 return new ModelResourceLocation(new ResourceLocation(PrideFurniture.ID, "filler"), "normal");

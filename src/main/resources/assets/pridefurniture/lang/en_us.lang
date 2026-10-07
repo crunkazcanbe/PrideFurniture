@@ -143,3 +143,21 @@ tip.pridefurniture.tank=Fish! They swim around in there.
 tip.pridefurniture.workbench=Where all Pride furniture is made.
 tip.pridefurniture.stairs=Walk round and up. Stack them: each one turns to continue the spiral.
 tip.pridefurniture.scale=Step on it… well, right-click it.
+
+# gloss tiles (reflect you, no shaders)
+tile.pridefurniture.gloss_tile.white.name=White Gloss Tile
+tile.pridefurniture.gloss_tile.orange.name=Orange Gloss Tile
+tile.pridefurniture.gloss_tile.magenta.name=Magenta Gloss Tile
+tile.pridefurniture.gloss_tile.lightBlue.name=Light Blue Gloss Tile
+tile.pridefurniture.gloss_tile.yellow.name=Yellow Gloss Tile
+tile.pridefurniture.gloss_tile.lime.name=Lime Gloss Tile
+tile.pridefurniture.gloss_tile.pink.name=Pink Gloss Tile
+tile.pridefurniture.gloss_tile.gray.name=Gray Gloss Tile
+tile.pridefurniture.gloss_tile.silver.name=Light Gray Gloss Tile
+tile.pridefurniture.gloss_tile.cyan.name=Cyan Gloss Tile
+tile.pridefurniture.gloss_tile.purple.name=Purple Gloss Tile
+tile.pridefurniture.gloss_tile.blue.name=Blue Gloss Tile
+tile.pridefurniture.gloss_tile.brown.name=Brown Gloss Tile
+tile.pridefurniture.gloss_tile.green.name=Green Gloss Tile
+tile.pridefurniture.gloss_tile.red.name=Red Gloss Tile
+tile.pridefurniture.gloss_tile.black.name=Black Gloss Tile
